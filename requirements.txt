@@ -1,0 +1,1 @@
+python-telegram-bot==20.7  # Библиотека для создания Telegram-ботов
